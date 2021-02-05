@@ -2,8 +2,8 @@
     <link rel="stylesheet" href="css/about.css">
 
     <div class="about">
-        <h1>About Us</h1>
-        <p class="c1">alsdjkflajdflasjdfljdljflsjflalshfldjhflkj</p>
+        <h1>Soccer Equipment</h1>
+        <p class="c1">An eCommerce website for all soccer equipment. Buy any of your soccer needs here.</p>
     </div>
     <div class="row">
         <div class="column">
