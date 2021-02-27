@@ -8,9 +8,11 @@
 }
 
 .container {
-   
-width: 50%;
+    text-align: center;
+    background-position: center;
+    width: 50%;
 }
+
 
 .center-me {
     display: flex;
